@@ -35,9 +35,9 @@ The no-stain control for both organs did not fluoresce on any wavelength beyond 
 
 Flow cytometry data from the mixed stain (i.e. all four antibodies) was used for the thymus and spleen lymphocyte analysis. Events for both organs are plot below in Figure 1.
 
-![Figure 1. Flow cytometry events for thymus (A, B, C) and spleen (D, E, F) mixed stains by wavelength. Gating was applied consecutively from left to right intra-organ. Thymus lymphocyte populations were selected (A), singlets were gated (not shown), and the first fluorescent comparison (B) showed no CD3-/CD45R+ events (B cells). Gating for CD45R-, fluorescence (C) showed CD3-/CD4+/CD8+ events (immature double-positive T cells) as green and CD3+ events with either CD4+ or CD8+ (mature T cells) as black. For the selected spleen lymphocyte (D) singlet population, the first fluorescent comparison (E) included many CD3-/CD45R+ events (B cells) and few CD3-/CD45R- events. Gating for CD3+/CD45R- events (mature T cells), fluorescence (F) segregated events into CD4+ (helper T cell) or CD8+ (cytotoxic T cell) events.
-](figures/FloCyto1.png)
+![](figures/FloCyto1.png)
 
+Figure 1. Flow cytometry events for thymus (A, B, C) and spleen (D, E, F) mixed stains by wavelength. Gating was applied consecutively from left to right intra-organ. Thymus lymphocyte populations were selected (A), singlets were gated (not shown), and the first fluorescent comparison (B) showed no CD3-/CD45R+ events (B cells). Gating for CD45R-, fluorescence (C) showed CD3-/CD4+/CD8+ events (immature double-positive T cells) as green and CD3+ events with either CD4+ or CD8+ (mature T cells) as black. For the selected spleen lymphocyte (D) singlet population, the first fluorescent comparison (E) included many CD3-/CD45R+ events (B cells) and few CD3-/CD45R- events. Gating for CD3+/CD45R- events (mature T cells), fluorescence (F) segregated events into CD4+ (helper T cell) or CD8+ (cytotoxic T cell) events.
 
 Density plots of all events provided an overall view of cell populations in thymus and spleen samples. Both organs had populations of monocytes and granulocytes, indicated by greater forward and side scatter relative to lymphocytes. Events with the lowest scatter signal, clearest in the spleen sample, were likely a combination of cellular debris and dead cells.
 
